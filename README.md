@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there. My name is Hakim and I am currently learning how to use GitHub to create as many projects as possible for my resume. 
+I enjoy coding because it challenges me in a way that feels fulfilling especially when I successfully solve a challenging problem. 
+So far, I have experience in HTML and some in CSS, however, I'm still self studying the coding language. I plan to learn python as soon as I have grasped the language and put it into a practical project.
+Hopefully the projects I complete will be to your liking!
 <!--
 **HakitZ12/HakitZ12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
